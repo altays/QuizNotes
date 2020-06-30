@@ -1,7 +1,7 @@
 {
-  "name": "1-Passport-Example",
+  "name": "quiznotes",
   "version": "1.0.0",
-  "description": "",
+  "description": "An App that allows for creating, updating, and reviewing flashcards.",
   "main": "server.js",
   "scripts": {
     "test": "npm run lint",
@@ -11,7 +11,7 @@
     "watch": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alex Taylor, Victoria Saleem, Nathan Long, Rob Wongus",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "2.4.3",
