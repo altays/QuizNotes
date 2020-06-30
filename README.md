@@ -63,9 +63,12 @@ Technologies used:
 ![followers](https://img.shields.io/badge/Followers-11-brightgreen)
 ![location](https://img.shields.io/badge/Location-Maryland-blue)
 
-## Tests
+![bioImage](https://avatars3.githubusercontent.com/u/59811683?v=4&s=200)
 
-    N/A
+[![](https://img.shields.io/badge/github-robwongus-brightgreen?style=plastic)](https://www.github.com/robwongus)
+![followers](https://img.shields.io/badge/Followers-7-brightgreen)
+![location](https://img.shields.io/badge/Location-null-blue)
+
 
 ## Future Updates 
 
@@ -74,14 +77,4 @@ Technologies used:
 * Individualized database per login vs universal 
 * Importing / sharing quizzes
 * Adding note cards back into pool (or “reshuffling”)
-
-
-## Email
-
-    Rob_Wo@yahoo.com
-
-![bioImage](https://avatars3.githubusercontent.com/u/59811683?v=4&s=200)
-
-[![](https://img.shields.io/badge/github-robwongus-brightgreen?style=plastic)](https://www.github.com/robwongus)
-![followers](https://img.shields.io/badge/Followers-7-brightgreen)
-![location](https://img.shields.io/badge/Location-null-blue)
+* Updating Layout
